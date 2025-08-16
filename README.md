@@ -1,6 +1,8 @@
 # React Essential Training
 This is the repository for the LinkedIn Learning course `React Essential Training`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+After vibe coding with React for a while, I decided to learn better the fundamentals of React and gain some experience with it.
+
 ![lil-thumbnail-url]
 
 ## Course Description
